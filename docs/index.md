@@ -8,5 +8,5 @@ hide:
 > Aprendo e ensino com facilidade, gosto de ajudar as pessoa.
 
 **Nota**: Se você estiver procurando uma versão impressa (ou PDF) desse resumo ?
-Por favor, use a versão online disponivel em: [danidanis.github.io](https//danidanis.github.io). Sempre estará atualizada e com links externos disponiveis.
+Por favor, use a versão online disponivel em: [DaniDanis.github.io](https://DaniDanis.github.io). Sempre estará atualizada e com links externos disponiveis.
 
