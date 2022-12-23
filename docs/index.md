@@ -58,7 +58,7 @@ Gosto muito da area de educação e costumo ajudar/ensinar meus colegas então q
 #### 5.1 Educação.
 
 * Desenvolvedor de Software, cursando, Busertech;
-* Ciecias da Computação, cursando, Descomplica;
+* Ciecias da Computação, cursando, [Descomplica](https://descomplica.com.br/);
 * Técnologia em Gestão de Turismo, formatura em 2023, [Instituto Federal de São Paulo](https://spo.ifsp.edu.br/)
 
 #### 5.2 Experiencia.
