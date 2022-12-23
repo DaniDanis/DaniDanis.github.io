@@ -53,11 +53,20 @@ Gosto muito da area de educação e costumo ajudar/ensinar meus colegas então q
 * Ainda em desenvolvimento.
 
 
-## 5. Curriculo.
+### 5. Curriculo.
 
-## 5.1 Educação.
+#### 5.1 Educação.
 
 * Desenvolvedor de Software, cursando, Busertech;
 * Ciecias da Computação, cursando, Descomplica;
 * Técnologia em Gestão de Turismo, formatura em 2023, [Instituto Federal de São Paulo](https://spo.ifsp.edu.br/)
+
+#### 5.2 Experiencia.
+
+* Buser(Desde abril/2022)
+
+Um aplicativo de que junta pessoas interessadas em viajar com empresas fretadoras de onibus, com a proposta de oferecer passagens mais baratas e com um conforto maior que o da rodoviaria.
+
+Trabalhando na Buser estou no periodo de aprendizado, contratado como estagiario em abril de 2022, faço parte do programa Busertech, onde junto do time de educação da Buser e a Faculdade Descomplica, tem o objetivo de formar 38 Desenvolvedores de Software, com aulas presenciais com conteudo e linguagens mais proximas d
+
 
