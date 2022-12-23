@@ -29,4 +29,35 @@ O que me motiva é resolver problemas e ajudar as pessoas, então caso você pre
 
 Estou quase formado em Tecnologia em Gestão de Turismo, indo para o ultimo semestre para me formar como Turismologo.
 
-* Python: 
+
+### 2. Tecnologias conhecidas.
+
+* Python: Linguagem que mais utilizo, principalmente por trabalhar frameworks backend como o **Django** e **Django Rest Framework**, é a linguagem que tenho maior versatilidade.
+* JavaScript: Essa eu utilizo mais quando trabalha no frontend, utilizando ela bastante no **Vuetify**.
+* Postgres: Banco de dados onde trabalhei mais, sei fazer consultas, inclusão/modificação de dados, e deletar dados, além de conseguir resolver alguns conflitos mais simples.
+* Django: Nesse framework possuo conhecimento em debugar, realizar requisições no banco de dados, criar e trabalhar com migrações além de resolver problemas que podem ocorrer com elas, criar um fluxo que chegue pela `url`, passe por uma `view` e realize tarefas, e criação de testes.
+* Django Rest Framework: Esse estou começando a aprender mais sobre, entendo um pouco sobre fazer requisições utilizando o sistema de views baseada em classes(Class-based view)
+* Vuetify: Construi alguns sites interativos utilizando o sistema de rotas(`router`), trabalhando com props e refs, sei como debugar a aplicação, trabalhar com componentes e requisições de API.
+
+
+### 3. Como me vejo no futuro.
+
+Dentro do meu planejamento e alcançar um nivel de conhecimento na programação de senior, sabendo resolver problemas com maior facilidade e com eficiencia.
+Sou "viciado" em programar tentando evitar problemas de perfomace, então visando isso também penso em focar mais nessa parte, ajudando a contribuir em projetos.
+
+Gosto muito da area de educação e costumo ajudar/ensinar meus colegas então quem sabe criar mais facilitadores para mais pessoas entrarem na area de programação.
+
+
+### 4. Portifolio online.
+
+* Ainda em desenvolvimento.
+
+
+## 5. Curriculo.
+
+## 5.1 Educação.
+
+* Desenvolvedor de Software, cursando, Busertech;
+* Ciecias da Computação, cursando, Descomplica;
+* Técnologia em Gestão de Turismo, formatura em 2023, [Instituto Federal de São Paulo](https://spo.ifsp.edu.br/)
+
