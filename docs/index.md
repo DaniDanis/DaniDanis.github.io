@@ -67,6 +67,8 @@ Gosto muito da area de educação e costumo ajudar/ensinar meus colegas então q
 
 Um aplicativo de que junta pessoas interessadas em viajar com empresas fretadoras de onibus, com a proposta de oferecer passagens mais baratas e com um conforto maior que o da rodoviaria.
 
-Trabalhando na Buser estou no periodo de aprendizado, contratado como estagiario em abril de 2022, faço parte do programa Busertech, onde junto do time de educação da Buser e a Faculdade Descomplica, tem o objetivo de formar 38 Desenvolvedores de Software, com aulas presenciais com conteudo e linguagens mais proximas d
+Trabalhando na Buser estou no periodo de aprendizado, contratado como estagiario em abril de 2022, faço parte do programa Busertech, onde junto do time de educação da Buser e a Faculdade Descomplica, tem o objetivo de formar 38 Desenvolvedores de Software, com aulas presenciais com conteudo e linguagens mais proximas da realidade do mercado de trabalho, estudando e ganhando experiencia de mercado.
+
+Em novembro de 2022, começei a realizar tarefas em times de tecnologia, resolvendo pequenos bugs e implementando algumas features novas.
 
 
