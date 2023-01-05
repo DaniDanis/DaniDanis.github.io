@@ -19,6 +19,7 @@ Por favor, use a versão online disponivel em: [DaniDanis.github.io](https://Dan
 * Telefone Celular: /**Whatsapp**/ Telegram: +55 11 999-987-136
 * [Facebook](https://www.facebook.com/daniel.dantas.18/)
 * [Github](https://github.com/DaniDanis)
+* [Linkedin](https://www.linkedin.com/in/daniel-d-89b786106/)
 
 Caso queria uma resposta rapida, **Whatsapp** é o melhor meio de contato.
 
